@@ -1,0 +1,9 @@
+
+E
+java:S3740	"/Provide the parametrized type for this generic.(ȼ߮
+{
+java:S1149	"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ȼ߮
+P
+java:S1854	":Remove this useless assignment to local variable "vector".(ȼ߮
+A
+java:S1481	"+Remove this unused "vector" local variable.(ȼ߮
